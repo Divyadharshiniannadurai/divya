@@ -1,4 +1,11 @@
 # divyadharshini
-👩‍💻 AI & Data Science Enthusiast
-🌟 Currently pursuing B.Tech in Artificial Intelligence & Data Science at KPR Institute of Engineering and Technology 
-🔍 Passionate about building innovative solutions in AI, Data Science, and Software Engineering
+👋 Hello, World!
+I'm a B.Tech student specializing in Artificial Intelligence and Data Science at KPRIET, driven by curiosity and the desire to solve real-world problems using technology. I thrive at the intersection of data science, software development, and design, always aiming to create solutions that are both impactful and user-friendly.
+
+💡 Who Am I?
+Innovator at Heart: I enjoy brainstorming ideas and turning them into tangible, efficient solutions.
+.
+🌱 What I’m Learning
+Sharpening my skills in Java programming and Streamlit development.
+Starting a journey with the German language to broaden my horizons.
+Deep diving into business development for my entrepreneurial aspirations
